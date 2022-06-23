@@ -1,0 +1,19 @@
+.backgnd_color_odd {
+    background-color: rgb(255, 179, 254);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#nbr2 {
+    color: rgb(0, 80 , 255);
+    font-size: 36px;
+}
+
+.nbr3 {
+    font-size: 24px;
+}
+
+#nbr4 {
+    background-color: rgb(0, 255 , 0);
+    font-size: 24px;
+    font-weight: bold;
+ }
